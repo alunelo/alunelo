@@ -1,9 +1,8 @@
 <h1>Hi, I'm Alune!</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2  
-                                      
+<h2>👨‍💻 IT/Cybersecurity Projects:</h2   
+                                  
   - [Active Directory Home Lab](https://github.com/loonersx/ActiveDirectoryLab)
-  
   - [BIOS Password Reset](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 Certifications</h2>
 
