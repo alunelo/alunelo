@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2
                                       
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  -  [BIOS Password Reset](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab][(https://github.com/loonersx/ActiveDirectoryLab)]
+  - [BIOS Password Reset](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 Certifications</h2>
 
 - [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
