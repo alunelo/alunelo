@@ -6,7 +6,7 @@
   - [BIOS Password Reset](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 Certifications</h2>
 
-- [CompTIA A+](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [CompTIA A+](https://www.credly.com/badges/e9d737dc-fae0-4b65-a51e-317cf4dbde78/public_url)
 
 <h2> 🤳 Connect with me:</h2>
 
