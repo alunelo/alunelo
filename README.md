@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2   
                                   
   - [Active Directory Home Lab](https://github.com/loonersx/ActiveDirectoryLab)
-  - [BIOS Password Reset](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Management(Nessus/Windows)](https://github.com/joshmadakor1/Algorithms-Practice)
 <h2>📺 Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/e9d737dc-fae0-4b65-a51e-317cf4dbde78/public_url)
