@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT/Cybersecurity Projects:</h2   
                                   
   - [Active Directory Home Lab](https://github.com/loonersx/ActiveDirectoryLab)
-  - [Vulnerability Management(Nessus/Windows)](https://github.com/alunelo/Vulnerability-Management-Nessus-Windows-)
+  - [Vulnerability Management (Nessus/Windows)](https://github.com/alunelo/Vulnerability-Management-Nessus-Windows-)
 <h2>📺 Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/e9d737dc-fae0-4b65-a51e-317cf4dbde78/public_url)
