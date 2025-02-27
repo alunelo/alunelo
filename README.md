@@ -11,6 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alunelo/azure-network-protocols)
   - [Proton VPN](https://github.com/alunelo/Proton-VPN)
   - [Domain Name Server Configuration](https://github.com/alunelo/DNS-configuration)
+  - [Network File Shares & Permissions](https://github.com/alunelo/File-Permissions)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2   
                                   
