@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/alunelo/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/alunelo/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Creation of Resource Groups](https://github.com/alunelo/Azure-Intro)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/alunelo/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/alunelo/azure-network-protocols)
   - [Proton VPN](https://github.com/alunelo/Proton-VPN)
