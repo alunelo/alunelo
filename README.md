@@ -21,6 +21,7 @@
 <h2>📺 Certifications</h2>
 
 - [CompTIA A+](https://www.credly.com/badges/e9d737dc-fae0-4b65-a51e-317cf4dbde78/public_url)
+- <b>CourseCareers Practical Help Desk Professional</b>
 
 <h2> 🤳 Connect with me:</h2>
 
