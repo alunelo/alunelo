@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>osTicket (Help Desk Ticketing System) (IN PROGRESS)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/alunelo/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/alunelo/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/alunelo/ticket-lifecycle)
